@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+android:width="60dp"
+android:height="60dp"
+android:viewportWidth="60"
+android:viewportHeight="60">
+
+<group
+    android:translateX="-714.000000"
+    android:translateY="3.000000">
+    <group
+        android:translateX="718.000000"
+        android:translateY="5.000000">
+        <path
+            android:fillType="evenOdd"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="2"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="round"
+            android:pathData="M 1 17 H 51 V 48 H 1 V 17 Z" />
+        <path
+            android:fillType="evenOdd"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="2"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="round"
+            android:pathData="M 1 17 H 51 V 25 H 1 V 17 Z" />
+        <path
+            android:fillType="evenOdd"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="2"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="round"
+            android:pathData="M5,17 L7.5,25" />
+        <path
+            android:fillType="evenOdd"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="2"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="round"
+            android:pathData="M15,17 L17.5,25" />
+        <path
+            android:fillType="evenOdd"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="2"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="round"
+            android:pathData="M25,17 L27.5,25" />
+        <path
+            android:fillType="evenOdd"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="2"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="round"
+            android:pathData="M35,17 L37.5,25" />
+        <group
+            android:translateX="1.000000"
+            android:translateY="3.000000">
+            <path
+                android:fillType="evenOdd"
+                android:strokeColor="#ffffff"
+                android:strokeWidth="2"
+                android:strokeLineJoin="round"
+                android:strokeLineCap="round"
+                android:pathData="M 0 0 H 50 V 8 H 0 V 0 Z" />
+            <path
+                android:fillType="evenOdd"
+                android:strokeColor="#ffffff"
+                android:strokeWidth="2"
+                android:strokeLineJoin="round"
+                android:strokeLineCap="round"
+                android:pathData="M4,0 L6.5,8" />
+            <path
+                android:fillType="evenOdd"
+                android:strokeColor="#ffffff"
+                android:strokeWidth="2"
+                android:strokeLineJoin="round"
+                android:strokeLineCap="round"
+                android:pathData="M14,0 L16.5,8" />
+            <path
+                android:fillType="evenOdd"
+                android:strokeColor="#ffffff"
+                android:strokeWidth="2"
+                android:strokeLineJoin="round"
+                android:strokeLineCap="round"
+                android:pathData="M24,0 L26.5,8" />
+            <path
+                android:fillType="evenOdd"
+                android:strokeColor="#ffffff"
+                android:strokeWidth="2"
+                android:strokeLineJoin="round"
+                android:strokeLineCap="round"
+                android:pathData="M34,0 L36.5,8" />
+            <path
+                android:fillType="evenOdd"
+                android:strokeColor="#ffffff"
+                android:strokeWidth="2"
+                android:strokeLineJoin="round"
+                android:strokeLineCap="round"
+                android:pathData="M44,0 L46.5,8" />
+        </group>
+        <path
+            android:fillType="evenOdd"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="2"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="round"
+            android:pathData="M45,17 L47.5,25" />
+        <path
+            android:fillType="evenOdd"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="2"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="square"
+            android:pathData="M5,29 L24,29" />
+        <path
+            android:fillType="evenOdd"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="2"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="square"
+            android:pathData="M5,32 L24,32" />
+        <path
+            android:fillType="evenOdd"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="2"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="square"
+            android:pathData="M5,40 L47,40" />
+        <path
+            android:fillType="evenOdd"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="2"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="square"
+            android:pathData="M11,40 L11,44" />
+        <path
+            android:fillType="evenOdd"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="2"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="square"
+            android:pathData="M21,40 L21,44" />
+        <path
+            android:fillType="evenOdd"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="2"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="square"
+            android:pathData="M31,40 L31,44" />
+        <path
+            android:fillType="evenOdd"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="2"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="square"
+            android:pathData="M41,40 L41,44" />
+    </group>
+</group>
+</vector>
